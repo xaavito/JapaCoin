@@ -1,0 +1,2 @@
+# JapaCoin
+JapaCoin Token Example
