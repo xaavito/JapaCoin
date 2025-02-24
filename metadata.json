@@ -1,0 +1,16 @@
+{
+  "name": "JapaCoin",
+  "symbol": "JAPA",
+  "description": "Token de transaccion Japero",
+  "image": "https://arweave.net/TuImagen.png",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://arweave.net/TuImagen.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
